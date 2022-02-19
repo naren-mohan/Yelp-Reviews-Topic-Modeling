@@ -1,9 +1,9 @@
 # Yelp-Reviews-Topic-Modeling
 This is a NLP project where I learned the basics of LDA and applying LDA for Topic Modeling
 
-![Topic Modeling](assets/topicmodeling.png)
+Dataset: [Yelp Resort Reviews](https://drive.google.com/drive/folders/1nUIOHqvOoF5EkST8u_pMcL7gvKtCy0La?usp=sharing)
 
-[Dataset](https://drive.google.com/drive/folders/1nUIOHqvOoF5EkST8u_pMcL7gvKtCy0La?usp=sharing)
+![Topic Modeling](assets/topicmodeling.png)
 
 ![Screenshot](assets/Topic_Models.png)
 
